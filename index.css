@@ -1,0 +1,45 @@
+  header{
+   height: 100px;
+   background-color:slategray;
+   text-align: center;
+  }
+  nav{ 
+   height: 100px;
+   background-color: black;
+   color: brown;
+   text-align: center;
+}
+main{
+   height: 600px;
+   background-color: black;
+   color: white;
+   width: 70%;
+   float: right;
+}
+article{
+   background-color: slategray;
+   height: 100px;
+   margin: 10px;
+}
+aside{
+   height: 600px;
+   background-color: slategray;
+   width: 30%;
+   float: left;
+}
+aside a{
+   text-decoration: none;
+   color: black;
+   border: 1px solid black;
+   width: 200px;
+   display: inline-block;
+   background-color: aqua;
+}
+a:hover{
+   color: red;
+}
+img{
+   width: 600px;
+   
+}
+
